@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-![Screenshot 2024-05-27 225944](https://github.com/nicholasdillon/nicholasdillon/assets/28617778/17e40034-8de5-4d41-a55c-2550229fdf0e)
+
 
 
 <h3 align="left">Languages and Tools:</h3>

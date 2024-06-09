@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles on [Coming Soon!](Coming Soon!)
+- 📝 I regularly write articles on [Nicholasdillon.dev](nicholasdillon.dev)
 
 - 💬 Ask me about **Cyber Security**
 
